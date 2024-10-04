@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paridhy
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analytics And Data Science
 - 🌱 I’m currently learning Machine Learning and Neural Networks
 - 💞️ I’m looking to collaborate on ml and dl projects
 - 📫 How to reach me paridhidahake10@gmail.com
